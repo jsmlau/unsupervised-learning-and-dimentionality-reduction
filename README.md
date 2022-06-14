@@ -1,4 +1,4 @@
-# Unsupervised Learning and Dimentionality Reduction
+# Unsupervised Learning and Dimensionality Reduction
 ## 1. Clustering Techniques
 * K-means
 * Expectation Maximization
